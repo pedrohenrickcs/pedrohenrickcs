@@ -1,4 +1,4 @@
-# Olá, eu sou Pedro! 👋
+# Olá, eu sou [Seu Nome]! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/pedrohenrickcs?label=Follow&style=social)](https://github.com/pedrohenrickcs)
 [![Linkedin: pedrohenrickcs](https://img.shields.io/badge/-pedrohenrickcs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenrickcs/)](https://www.linkedin.com/in/pedrohenrickcs/)
@@ -17,6 +17,8 @@
 ## 📈 Estatísticas do GitHub
 
 [![Estatísticas do GitHub de pedrohenrickcs](https://github-readme-stats.vercel.app/api?username=pedrohenrickcs&show_icons=true&theme=dracula&hide=contribs)](https://github.com/pedrohenrickcs)
+
+![Linguagens mais utilziadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gfpaiva&layout=compact&theme=dracula)
 
 ## 📫 Como me encontrar
 
